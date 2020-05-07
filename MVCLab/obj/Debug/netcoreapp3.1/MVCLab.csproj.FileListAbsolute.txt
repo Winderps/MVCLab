@@ -1,0 +1,13 @@
+C:\Users\Winderps\source\repos\MVCLab\MVCLab\bin\Debug\netcoreapp3.1\MVCLab.exe
+C:\Users\Winderps\source\repos\MVCLab\MVCLab\bin\Debug\netcoreapp3.1\MVCLab.deps.json
+C:\Users\Winderps\source\repos\MVCLab\MVCLab\bin\Debug\netcoreapp3.1\MVCLab.runtimeconfig.json
+C:\Users\Winderps\source\repos\MVCLab\MVCLab\bin\Debug\netcoreapp3.1\MVCLab.runtimeconfig.dev.json
+C:\Users\Winderps\source\repos\MVCLab\MVCLab\bin\Debug\netcoreapp3.1\MVCLab.dll
+C:\Users\Winderps\source\repos\MVCLab\MVCLab\bin\Debug\netcoreapp3.1\MVCLab.pdb
+C:\Users\Winderps\source\repos\MVCLab\MVCLab\obj\Debug\netcoreapp3.1\MVCLab.csprojAssemblyReference.cache
+C:\Users\Winderps\source\repos\MVCLab\MVCLab\obj\Debug\netcoreapp3.1\MVCLab.csproj.CoreCompileInputs.cache
+C:\Users\Winderps\source\repos\MVCLab\MVCLab\obj\Debug\netcoreapp3.1\MVCLab.AssemblyInfoInputs.cache
+C:\Users\Winderps\source\repos\MVCLab\MVCLab\obj\Debug\netcoreapp3.1\MVCLab.AssemblyInfo.cs
+C:\Users\Winderps\source\repos\MVCLab\MVCLab\obj\Debug\netcoreapp3.1\MVCLab.dll
+C:\Users\Winderps\source\repos\MVCLab\MVCLab\obj\Debug\netcoreapp3.1\MVCLab.pdb
+C:\Users\Winderps\source\repos\MVCLab\MVCLab\obj\Debug\netcoreapp3.1\MVCLab.genruntimeconfig.cache
